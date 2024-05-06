@@ -1,12 +1,14 @@
-- 👋 Hi, I’m Prashant Sengar
-- 👀 I’m interested in exploring new things
-- 🌱 I’m currently learning Web develpment
-- 💞️ I’m looking to collaborate on Frontend Projects
-- 📫 To reach me message on My Instagram Account- "@prashant_sengar._"
-- 😄 Pronouns: Prashant
+- 👋 Hi there! I’m Prashant Sengar ✨
+- 👀 Always ready to dive into new adventures and learn along the way!
+- 🌱 Currently leveling up my skills in Web Development and Flutter Development.
+- 💞️ Open to exciting collaborations on Frontend and Flutter projects.
+- 😄 He/him pronouns, but you can just call me Prashant the Code Wizard! 🧙‍♂️
+- 🔍 Let's work together to sprinkle some magic on our projects! 💻🚀
+- 🌟 Connect with me:
+  - Instagram: @code_wizard.0 📩
+  - LinkedIn: linkedin.com/in/prashant-sengar-
+
+Feel free to drop a message and let’s create wonders together! 🌈✨
 
 
-<!---
-PrashantSengar0523/PrashantSengar0523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
