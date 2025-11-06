@@ -5,7 +5,7 @@
 - 😄 He/him pronouns, but you can just call me Prashant the Code Wizard! 🧙‍♂️
 - 🔍 Let's work together to sprinkle some magic on our projects! 💻🚀
 - 🌟 Connect with me:
-  - Instagram: @code_wizard.0 📩
+  - Instagram: @codesnippetes 📩
   - LinkedIn: linkedin.com/in/prashant-sengar-
 
 Feel free to drop a message and let’s create wonders together! 🌈✨
